@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 :office::briefcase: = :man_technologist: + :cloud_with_lightning: + :abacus:.
 
-:house_with_garden: = :couplekiss_man_woman: + :wolf: + :cat: + :tv: + :video_game: + :basketball: + :headphones:
+:house_with_garden: = :couplekiss_man_woman: + :wolf: + :cat: + :tv: + :video_game: + :basketball: + :headphones:.
 
 :heart_on_fire: = typescript, serverless, open source, bleeding edge (responsibly).
