@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :speaking_head: = _eng_, _heb_, _rus_.
 
-:office::briefcase: = :man_technologist: + :cloud_with_lightning: + :abacus:.
+:office::briefcase: = :man_technologist: + :cloud_with_lightning: + 🏗️.
 
 :house_with_garden: = :couplekiss_man_woman: + :wolf: + :cat: + :tv: + :video_game: + :basketball: + :headphones:.
 
