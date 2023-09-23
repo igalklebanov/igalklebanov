@@ -21,8 +21,19 @@ Here are some ideas to get you started:
 
 :speaking_head: = _eng_, _heb_, _rus_.
 
-:office::briefcase: = :man_technologist: + :cloud_with_lightning: + 🏗️.
+💼 = software engineer (full-time) @ [env0](https://env0.com).
 
-:house_with_garden: = :couplekiss_man_woman: + :wolf: + :cat: + :tv: + :video_game: + :basketball: + :headphones:.
+:house_with_garden: = :wolf: + :cat: + :tv: + :video_game: + :basketball: + :headphones: + 🏋️‍♂️.
 
 :heart_on_fire: = typescript, serverless, open source, bleeding edge (responsibly).
+
+---
+
+open-source:
+
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - a member/maintainer/top contributor/moderator/evangelist.
+- [colinhacks/zod](https://github.com/colinhacks/zod) - a top contributor.
+
+trivia:
+
+- accidentally coined "Tofu", now [OpenTofu](https://github.com/opentufu/opentofu).
