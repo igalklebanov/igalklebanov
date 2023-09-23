@@ -36,4 +36,4 @@ open-source:
 
 trivia:
 
-- accidentally coined "Tofu", now [OpenTofu](https://github.com/opentufu/opentofu).
+- accidentally coined "Tofu", now [OpenTofu](https://github.com/opentofu/opentofu).
