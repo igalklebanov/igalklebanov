@@ -16,6 +16,9 @@ open-source:
 
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - a member/maintainer/top contributor/moderator/evangelist.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - a top contributor.
+- [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl) - author.
+- [kysely-org/kysely-postgres-js](https://github.com/kysely-org/kysely-postgres-js) - author.
+- and more...
 
 trivia:
 
